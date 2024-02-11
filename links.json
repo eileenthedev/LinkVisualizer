@@ -1,0 +1,157 @@
+[
+    {
+        "parent": "ABC",
+        "child": "EFG",
+        "data": "authorizations"
+    },
+    {
+        "parent": "ABC",
+        "child": "DRR",
+        "data": "loans"
+    },
+    {
+        "parent": "UNI",
+        "child": "DRR",
+        "data": "counterparty"
+    },
+    {
+        "parent": "UNI",
+        "child": "LTK",
+        "data": "counterparty"
+    },
+    {
+        "parent": "UNI",
+        "child": "GAP",
+        "data": "counterparty"
+    },
+    {
+        "parent": "GAP",
+        "child": "PLM",
+        "data": "rates"
+    },
+    {
+        "parent": "QBU",
+        "child": "CGM",
+        "data": "transactions"
+    },
+    {
+        "parent": "CGM",
+        "child": "LBY",
+        "data": "rates"
+    },
+    {
+        "parent": "LBY",
+        "child": "QBU",
+        "data": "loans"
+    },
+    {
+        "parent": "KNL",
+        "child": "FSP",
+        "data": "authorizations"
+    },
+    {
+        "parent": "FSP",
+        "child": "CLG",
+        "data": "loans"
+    },
+    {
+        "parent": "CLG",
+        "child": "KNL",
+        "data": "accounts"
+    },
+    {
+        "parent": "KOA",
+        "child": "HKN",
+        "data": "transactions"
+    },
+    {
+        "parent": "HKN",
+        "child": "UIH",
+        "data": "rates"
+    },
+    {
+        "parent": "UIH",
+        "child": "KOA",
+        "data": "rates"
+    },
+    {
+        "parent": "PZY",
+        "child": "KBZ",
+        "data": "rates"
+    },
+    {
+        "parent": "KBZ",
+        "child": "DKU",
+        "data": "compliance"
+    },
+    {
+        "parent": "DKU",
+        "child": "PZY",
+        "data": "rates"
+    },
+    {
+        "parent": "OIX",
+        "child": "BLT",
+        "data": "rates"
+    },
+    {
+        "parent": "BLT",
+        "child": "QRT",
+        "data": "rates"
+    },
+    {
+        "parent": "QRT",
+        "child": "OIX",
+        "data": "counterparty"
+    },
+    {
+        "parent": "HHP",
+        "child": "QQY",
+        "data": "compliance"
+    },
+    {
+        "parent": "QQY",
+        "child": "UHM",
+        "data": "loans"
+    },
+    {
+        "parent": "UHM",
+        "child": "YGD",
+        "data": "counterparty"
+    },
+    {
+        "parent": "YGD",
+        "child": "HHP",
+        "data": "counterparty"
+    },
+    {
+        "parent": "GSZ",
+        "child": "IGF",
+        "data": "authorizations"
+    },
+    {
+        "parent": "IGF",
+        "child": "HJB",
+        "data": "transactions"
+    },
+    {
+        "parent": "HJB",
+        "child": "IVN",
+        "data": "compliance"
+    },
+    {
+        "parent": "IVN",
+        "child": "GSZ",
+        "data": "accounts"
+    },
+    {
+        "parent": "DDM",
+        "child": "HDU",
+        "data": "transactions"
+    },
+    {
+        "parent": "HDU",
+        "child": "CCI",
+        "data": "compliance"
+    }
+]

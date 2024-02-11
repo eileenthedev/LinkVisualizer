@@ -1,0 +1,9 @@
+[
+    {"parent": "ABC", "child": "EFG", "data": "authorizations"},
+    {"parent": "ABC", "child": "DRR", "data": "loans"},
+    {"parent": "UNI", "child": "DRR", "data": "counterparty"},
+    {"parent": "UNI", "child": "LTK", "data": "counterparty"},
+    {"parent": "UNI", "child": "GAP", "data": "counterparty"},
+    {"parent": "GAP", "child": "PLM", "data": "rates"}
+]
+  
